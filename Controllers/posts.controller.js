@@ -1,6 +1,6 @@
 const request = require('express');
-var Post = require('../models/post');
-var Profile = require('../models/profile');
+var Post = require('../Models/post');
+var Profile = require('../Models/profile');
 
 function index(req, res, next){
 
