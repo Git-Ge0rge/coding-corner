@@ -3,7 +3,7 @@ var router = express.Router();
 const passport = require('passport');
 const oAuthCtrl = require('../controllers/oAuth.controller')
 
-// Redirect for Home Page
+// Redirect for Home Page screen
 router.get('/', function(req, res, next) {
   res.redirect('/posts/all');
 });
