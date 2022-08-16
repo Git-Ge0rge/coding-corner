@@ -1,4 +1,4 @@
-# SEI Coding Corner
+# [SEI Coding Corner](https://coding-corner.herokuapp.com/posts/all)
 
 A class forum where you can login with Google and create useful posts to discuss and comment on content covered in class.
 
