@@ -7,7 +7,7 @@ A class forum where you can login with Google and create useful posts to discuss
 - Full CRUD Capability
 - Google oAuth User Authentication
 - MongoDB Atlas database
-- [Deployed via Heroku](https://coding-corner.herokuapp.com/
+- [Deployed via Heroku](https://coding-corner.herokuapp.com/)
 
 ## Technologies Used
 
