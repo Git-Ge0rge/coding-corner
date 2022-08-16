@@ -1,4 +1,4 @@
-# [SEI Coding Corner](https://coding-corner.herokuapp.com/posts/all)
+# [SEI Coding Corner](https://coding-corner.herokuapp.com/)
 
 A class forum where you can login with Google and create useful posts to discuss and comment on content covered in class.
 
@@ -7,7 +7,7 @@ A class forum where you can login with Google and create useful posts to discuss
 - Full CRUD Capability
 - Google oAuth User Authentication
 - MongoDB Atlas database
-- Deployed via Heroku
+- [Deployed via Heroku](https://coding-corner.herokuapp.com/
 
 ## Technologies Used
 
