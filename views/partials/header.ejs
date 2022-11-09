@@ -11,6 +11,7 @@
 </head>
 <body>
   <nav>
+    <a href="/posts/all" <%- title === 'Home' ? 'class="active"' : '' %>><img class="nav-logo" src="/images/cclogohorizontal.png"/></a><br>
     <a href="/posts/new" <%- title === 'New Post' ? 'class="active"' : '' %>> NEW POST </a><br>
     <a href="/posts/all" <%- title === 'My Posts' ? 'class="active"' : '' %>> ALL POSTS </a><br>
     <a href="/posts/favourites" <%- title === 'Favourites' ? 'class="active"' : '' %>> FAVOURITES </a><br>
@@ -32,7 +33,6 @@
         selector: 'textarea#tiny'
       });
     </script>
-    
   </nav>
   <main>
     <h1><%= title %></h1>
